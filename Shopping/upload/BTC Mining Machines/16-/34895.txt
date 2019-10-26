@@ -1,0 +1,61 @@
+
+Product Name: Bitcoin Mining Rig GEFORCE GTX 1070 Ti (Water Cooled/Glow in the ) Custom Built 
+Price: $2,550.00
+1 set (Min. Order)
+
+Product Description:
+Recently built and fully tested. Built with custom frame for better airflow, stability, and durability.
+
+Condition: 	
+New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). 
+Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by 
+the manufacturer in non-retail packaging, such as an unprinted box or plastic bag.
+
+
+Specifications:	 
+Compatible Currency: Bitcoin
+Mining Hardware: GPU
+Hash Algorithm:  Scrypt
+
+
+    Intel Pentium Dual Core
+    4GB RAM/Memory 
+    6 x NVIDIA GeForce GTX 1080Ti 11GB Graphics Cards
+    128GB Solid State Drive
+    Custom frame
+    2 x 1300W 80 Plus Power Supplies
+    Windows 10 Pro 
+
+Main algorithms and speeds
+    Zhash - 516 H/s
+    Ethereum - 320 MH/s
+    CNHeavy - 6360 H/s
+    CryptoNightV8 - 5400 H/s
+    CryptoNightR - 4500 H/s
+    CNFast - 10380 H/s
+    Lyra2REv3 - 462 MH/s
+    NeoScrypt - 11400 KH/s
+    Aion - 1800 H/s
+    CuckooCycle - 44.4 H/s
+    Cuckaroo29 - 37.8 H/s
+    Cuckatoo31 - 8.7 MH/s
+    Beam - 228 H/s
+    BCD - 210 MH/s
+    TimeTravel10 - 297 MH/s
+    X16R - 174 MH/s
+    PHI2 - 55.2 MH/s
+    Xevan - 41.4 MH/s
+    Hex - 126 MH/s
+    PHI1612 - 264 MH/s
+    ProgPow - 109.2 MH/s
+    X25X - 13.8 MH/s
+    MTP - 11.4 MH/s
+
+The system is set up and ready to mine auto switching between the most profitable algorithm (paid in bitcoin). 
+Just send us your bitcoin address and we will update it before shipping. This can also be set up to mine just Ethereum, 
+Zcash or any other GPU mining algorithm. If you need help with anything we are here to help.
+
+Packaging & Delivery
+Packaging Details:
+    Neutral packing
+Port: Texas, USA  

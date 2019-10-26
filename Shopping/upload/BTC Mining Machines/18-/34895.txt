@@ -1,0 +1,71 @@
+
+Product Name:  6 GPU 1070 Ti Mining Rig Hydra 3 Server
+Price: $6,500.00
+1 set (Min. Order)
+
+Product Description:
+Recently built and fully tested. Built with custom frame for better airflow, stability, and durability.
+ 	
+Condition {New}: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). 
+Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by 
+the manufacturer in non-retail packaging, such as an unprinted box or plastic bag.
+Compatible Currency: Bitcoin, Many More!, Decred, Siacoin, Verge, Monero, Monacoin, Zcash, Ethereum
+Power Use (W): 	1000 Plus/Minus 200
+Mining Hardware: Frame/Case
+Hash Algorithm:  Dagger-Hashimoto (Ethereum), Scrypt, CryptoNightV7, Lyra2Z, Blake2s, Sia, Pascal, Equihash, Decred, Lbry, 
+Dagger-Hashimoto, Dagger-Hashimoto (Decred), Dagger-Hashimoto (Sia), Dagger-Hashimoto (Pascal), Lyra2REv2, NeoScrypt, Keccak
+Model: 	1070 Ti Cerberus
+
+Specifications:
+    4U Server Mining Rig Case optimized for airflow management
+    120 GB SSD
+    4 GB RAM
+    6 Cerberus GTX 1070 Ti GPUs
+    6 PCIe 16x-1x, 6-Pin Riser Cards
+    1 Intel Pentium Gold Processor
+    1 ASUS Prime Z370-A Motherboard
+    1 1200W Power Supply (Platinum/Titanium Rated)
+    4 80mm Server Grade Exhaust Fans
+    3 120mm Server Grade Intake Fans
+
+Size(L x W x H): 25.59" x 16.93" x 7.01" 
+Weight: Approximately 20 lbs.
+
+Pre-Installed Software:
+    Windows 10 64-Bit Professional
+    MSI Afterburner - Adjusts Overclock settings to your mining preference
+    Teamviewer - Remote Desktop Management (User will have to configure or delete)
+    NiceHash Miner V2.0.2.5 (latest nvidia version) - https://www.nicehash.com/cpu-gpu-mining for more information. Sell your 'hash power' without having to think about what currency is the best to mine
+    Latest BIOS update with modified settings to allow for mining cryptocurrency
+    Latest Graphic Card Drivers
+    CCMiner
+
+Components NOT Included:
+    Monitor with HDMI output
+    HDMI Cable (VGA to HDMI is acceptable)
+    Keyboard
+    Mouse
+    Ethernet Cable
+    Switch/Router/Modem
+    Server Rack of any size
+
+
+Frequently Asked Questions(FAQ):
+
+1. How much can I make mining? Is it truly worth the investment?
+There are many mining profitability calculators available with a simple 'Google' search. We recommend www.whattomine.com , 
+www.cryptocompare.com , www.coinwarz.com , www.nicehash.com/profitability-calculator# as a few options to start your research for 
+individual needs. These sites will require you to enter the hash rate, wattage, and local electricity cost and provide an estimated earnings 
+per day/week/month/year.
+2. Can I run the rig 24/7/365?
+Yes. Before shipping we double check and troubleshoot any known errors delivering to you a 'plug and play' mining rig - ready for use.
+3. Do you provide support?
+Of course. We will provide you with help to get your rig up and running.
+4. Do you offer bulk discounts?
+Bulk pricing is typically offered only for existing customers - but we will evaluate on an as needed basis. Inquire for more information 
+if you plan on buying several at once.
+
+Packaging & Delivery
+Packaging Details:
+    Neutral packing
+Port: Texas, USA  

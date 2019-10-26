@@ -1,0 +1,30 @@
+
+Product Name:  Antminer R4 9TH/s Quiet Power Saving Bitcoin Miner
+Price: $1,350.00
+1 set (Min. Order)
+
+Product Description:
+Recently built and fully tested. Built with custom frame for better airflow, stability, and durability.
+
+
+Specifications:	 
+Brand:	Antminer
+Compatible Currency: Bitcoin
+Processing Speed (GH/s): 8700
+Power Use (W): 	850w
+Mining Hardware: Frame/Case, GPU
+Hash Algorithm:  SHA-256
+Mining Hardware: ASIC
+
+
+Antminer R4 Used.
+Firmware is original BM firmware with tunable settings. Rare - original firmware with customization for hash rate speed power, fan settings, etc. 
+7-9 Th/s
+The system is set up and ready to mine auto switching between the most profitable algorithm (paid in bitcoin). 
+Just send us your bitcoin address and we will update it before shipping. This can also be set up to mine just Ethereum, 
+Zcash or any other GPU mining algorithm. If you need help with anything we are here to help.
+
+Packaging & Delivery
+Packaging Details:
+    Neutral packing
+Port: Texas, USA  

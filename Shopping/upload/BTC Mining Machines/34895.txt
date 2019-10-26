@@ -1,0 +1,25 @@
+                    
+                         https://miners.eu/buy-miners/
+
+
+Crypto Expert Icon Miners' presents available Bitcoin Mining Hardwares for sale.For investors that would not like cloud mining, Mining hardware 
+is the best option. You will be able to mine the following coins: Auroracoin, Bitcoin, Bitcoin Private, Bytecoin, Cardano, Dash, Decred, 
+Devcoin, Digitalcoin, Dogecoin, Feathercoin, Freicoin, Infinitecoin, Ixcoin, Litecoin and Mastercoin.
+
+All our mining hardware are brand new, fully configured, setup and ready to go with the operating system, stable graphics card drivers
+and mining software preinstalled. Enter your wallet address, and you're ready to go!
+
+
+There should be a "Bulk Order" Botton.
+Your Full Names:
+Phone number:
+Number of mining machines required:
+Compatible Currency: Bitcoins, Bitcoin Cash, Dash, Dogecoin, Ethereum, Litecoin, Zcash, Universal {Option}
+Mining Hardware: ASIC, GPU, USB, Frame/Case, FPGA {Option}
+Brand: AMD, Antminer, ASIC Miner, Bitmain, Innosilicon, Ledger, NVIDIA, Unbranded {Option}
+Hash Algorithm: SHA-256, Scrypt, X11, Dagger-Hashimoto(Ethereum), Blake-256, SHA-256d  {Option}
+Speed(GH/s): Less than 1GH/s, More than 500 GH/s, Not specified  {Option}
+Condition: New, Manufacturer refurbished, Seller refurbished, Used, Not specified  {Option}
+Your country:
+Message:
+Thank you for your Bulk Order!

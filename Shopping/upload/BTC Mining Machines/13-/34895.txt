@@ -1,0 +1,59 @@
+
+Product Name:  Crypto Coin Mining Rig 116 Mh/s X16R 198 Mh/s Ethereum ETH 4x GTX 1080Ti
+Price: $4,450.00
+1 set (Min. Order)
+
+Product Description:
+Recently built and fully tested. Built with custom frame for better airflow, stability, and durability.
+
+
+Specifications:	 
+Model: 	GTX1080Ti
+Compatible Currency: Bitcoin, Devcoin, Digitalcoin, Dogecoin, Feathercoin, Freicoin, Infinitecoin, 
+Ixcoin, Litecoin, Mastercoin
+Power Use (W): 	850w
+Mining Hardware: Frame/Case, GPU
+Hash Algorithm:   Blake-256, Dagger-Hashimoto (Ethereum), Scrypt, SHA-256, SHA-256d, X11
+
+
+Intel Pentium Dual Core
+4GB RAM/Memory 
+4 x NVIDIA GeForce GTX 1080Ti 11GB Graphics Cards
+128GB Solid State Drive
+Custom frame
+1300W 80 Plus Power Supplies
+Windows 10 Pro
+ 
+Main algorithms and speeds
+    Zhash - 344 H/s
+    Ethereum - 198 MH/s
+    CNHeavy - 4240 H/s
+    CryptoNightV8 - 3600 H/s
+    CryptoNightR - 3000 H/s
+    CNFast - 6920 H/s
+    Lyra2REv3 - 308 MH/s
+    NeoScrypt - 7600 KH/s
+    Aion - 1200 H/s
+    CuckooCycle - 29.6 H/s
+    Cuckaroo29 - 25.2 H/s
+    Cuckatoo31 - 5.8 MH/s
+    Beam - 152 H/s
+    BCD - 140 MH/s
+    TimeTravel10 - 198 MH/s
+    X16R - 116 MH/s
+    PHI2 - 36.80 MH/s
+    Xevan - 27.60 MH/s
+    Hex - 84 MH/s
+    PHI1612 - 176 MH/s
+    ProgPow - 72.8 MH/s
+    X25X - 27.6 MH/s
+    MTP - 7.6 MH/s
+
+The system is set up and ready to mine auto switching between the most profitable algorithm (paid in bitcoin). 
+Just send us your bitcoin address and we will update it before shipping. This can also be set up to mine just Ethereum, 
+Zcash or any other GPU mining algorithm. If you need help with anything we are here to help.
+
+Packaging & Delivery
+Packaging Details:
+    Neutral packing
+Port: Texas, USA  

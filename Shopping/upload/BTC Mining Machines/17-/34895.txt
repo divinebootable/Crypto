@@ -1,0 +1,45 @@
+
+Product Name:  CLEAN QUIET 180 MH ETH 2700 SOL Eth Zcash Bitcoin Mining Rig 6 GPU NVIDIA 1070
+Price: $4,000.00
+1 set (Min. Order)
+
+
+Specifications:	 
+180 MH ETH 2700 SOL Ethereum Zcash Bitcoin Miner Mining Rig 6 GPU NVIDIA 1070
+Compatible Currency:  Bitcoin, Devcoin, Digitalcoin, Dogecoin, Feathercoin, Freicoin, Infinitecoin, Litecoin, Mastercoin
+Power Use (W): 	15000w
+Mining Hardware: GPU
+Hash Algorithm:  Blake-256, Dagger-Hashimoto (Ethereum), Scrypt, SHA-256, SHA-256d, X11
+
+
+
+    Fully configured Ethereum, Zcash, NichHash Mining software with optimal settings. Enter your wallet address and you're ready to go!
+    Built with Server Case.
+    Quiet around 52dbs and cool at 61c in AC room.
+
+MINING SPEED:
+    Ethereum (ETH): 180 MH/s (recommended; most profitable)
+    Zcash: 2700 SOL/s = 2700 H/s (recommended; most profitable)
+    Dual Mining mode available.
+
+COMPONENTS
+    Intel CPU.
+    Motherboard with support for 6 GPUs (NVIDIA Founders).
+    8 GB DDR4 RAM/Memory.
+    6 x NVIDIA GTX 1070 8 GB Founders (Great resale value! Much better than GTX 1080 or GTX 1080 Ti); graphics cards optimized via MSI Afterburner
+    120 GB Solid State Drive.
+    Server Case
+    1000 Watt Power Supply (Gold).
+    6 X USB 3.0 PCI-E 1X to 16X Extender Riser Adapter.
+    Windows 10
+    Fully configured and preinstalled Mining software.
+Power Consumption: You will be pulling about 800-1000Watts. Power your rig on any dedicated 15/20A Circuit.  Most homeplugs are 20A so this is fine.
+
+The system is set up and ready to mine auto switching between the most profitable algorithm (paid in bitcoin). 
+Just send us your bitcoin address and we will update it before shipping. This can also be set up to mine just Ethereum, 
+Zcash or any other GPU mining algorithm. If you need help with anything we are here to help.
+
+Packaging & Delivery
+Packaging Details:
+    Neutral packing
+Port: Texas, USA  
